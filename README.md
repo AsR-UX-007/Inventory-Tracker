@@ -53,3 +53,4 @@ python main.py
 
 ## Discussion
 A lower reorder threshold produces fewer reorder alerts but may increase the chance of stock-outs. A higher threshold provides earlier warnings but may lead to holding more stock. The best threshold depends on supplier lead time, item demand, and storage cost.
+# Inventory-Tracker
