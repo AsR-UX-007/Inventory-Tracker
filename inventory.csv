@@ -1,0 +1,7 @@
+item_id,name,category,quantity,price,reorder_threshold
+E101,Resistor Pack,Components,50,20.0,10
+E102,LED Pack,Components,8,35.0,10
+E103,Digital Multimeter,Instruments,5,650.0,3
+E104,Breadboard,Tools,15,120.0,5
+E105,Capacitor,Components,20,15.0,10
+E106,Diode,Components,50,50.0,10
